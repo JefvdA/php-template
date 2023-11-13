@@ -21,7 +21,6 @@
     ],
     "require-dev": {
         "phpunit/phpunit": "*",
-        "phpstan/phpstan": "*",
-        "friendsofphp/php-cs-fixer": "*"
+        "phpstan/phpstan": "*"
     }
 }
