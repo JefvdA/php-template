@@ -22,5 +22,8 @@
     "require-dev": {
         "phpunit/phpunit": "*",
         "phpstan/phpstan": "*"
+    },
+    "scripts": {
+        "fix": "tools/php-cs-fixer/vendor/bin/php-cs-fixer fix"
     }
 }
